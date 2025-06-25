@@ -1,0 +1,9 @@
+ /// <summary> 注册事件 </summary>
+public void RegisterFun()
+{
+    //foreach (var view in views)
+    foreach (var view in Views)
+    {
+        view.RegisterFun();
+    }
+}
