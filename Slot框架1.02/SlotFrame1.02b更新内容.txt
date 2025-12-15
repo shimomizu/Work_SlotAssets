@@ -1,0 +1,13 @@
+导出彩金改为jp
+新添加脚本AnimationEventAdder
+修改层级工具更新能修改spriter
+图标canvas层级+1
+彩金JackpotBorder添加头符号功能，目标数字控制
+修复SymbolsRollEndPlayStartAnim多个滚轮start内容没正常调用问题
+不自动激活spine
+弹窗数字持续时间滚动暴露View界面
+数字滚动脚本添加方法
+修复彩金分数框小数点不应用的情况   
+npc新增中奖3
+增加保底view、赔付框view
+
